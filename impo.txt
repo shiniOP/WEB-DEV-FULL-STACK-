@@ -1,0 +1,21 @@
+1.  Working of DOM -
+    browse(html) -> create DOM -> JS modify it 
+    -- but in case of big applicaions working with DOM becomes complicated
+    REACT has a simpler mental model
+
+2. WORKING OF REACT -
+    no need to worry about querying/updating DOM
+    creates a webpage with small/reusable components
+    takes care of creating/updating DOM
+
+3. React applicaion is a tree of components with APP(main root)
+    component as the root brining everything together
+
+4.Vite -> quick and small bundle size
+    npm create vite@lastest
+    
+5. REACT FILES -> .JSX
+    stands for Javascript XML
+    combines Javascript with HTML like tags
+
+ 
